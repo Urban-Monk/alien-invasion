@@ -1,7 +1,7 @@
 # alien-invasion
 
 Alien invasion is a clone of popular arcade game with same name.
-I created this game in order to improve my understanding the concepts of "Object-Oriented-Programming" 
+I created this game in order to improve my understanding of the concepts of "Object-Oriented-Programming" 
 and of course my overall python skills.
 
 In Alien Invasion, the player controls a ship that appears at
